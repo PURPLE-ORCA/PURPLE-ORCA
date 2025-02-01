@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PURPLE-ORCA
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me medms2005@gmail.com
 
 <!---
