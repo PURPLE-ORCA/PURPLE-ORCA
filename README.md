@@ -9,5 +9,5 @@
 
 # 📞 Contact me:
 
-**Email**: medms2005@gmail.com
+**Email**: medms2005@gmail.com <br/>
 **Discord**: discord.gg/purple._.orca
