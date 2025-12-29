@@ -1,11 +1,55 @@
-### Tech Stack:
-**Languages** : ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) <br/>
-**Frameworks / Libraries** : ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![CHADCN/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white) ![TAILWIND CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![NEXT JS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) <br/>
-**Tools & Platforms** : ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)   ![POSTGRESWL](https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge) ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![COMPOSER](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white) ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) <br/>
+<h2 align="center">Hi 👋! I'm Mohammed El Moussaoui</h2>
+<h3 align="center">A.K.A PURPLE ORCA 🟣</h3>
 
-**Others** : SEO, Debugging, API REST, Responsive Design, Figma <br/>
+<h4 align="center">Full Stack Engineer | Next.js 16 & Laravel 12</h4>
+<p align="center">Architecting high-performance SaaS platforms and complex web applications.</p>
 
-### Contact me:
-**Portfolio**: [orcaportfolio](https://orcaportfolio.vercel.app/) <br/>
-**Email**: medms2005@gmail.com <br/>
-**Discord**: discord.gg/purple._.orca
+<br/>
+
+<h3 align="center">🛠️ The Toolkit</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+</div>
+
+<br/>
+
+<h3 align="center">🚀 Featured Work</h3>
+<p align="center">
+  <a href="https://orcaportfolio.vercel.app"><b>🌐 Portfolio</b></a> • 
+  <a href="https://dhadhackers.com/"><b>🌐 DHADHackers</b></a> • 
+  <a href="https://orcascout.vercel.app"><b>🌐 ORCASCOUT</b></a> • 
+  <a href="https://orcasion.vercel.app/"><b>🌐 ORCASION</b></a>
+</p>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:medms2005@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammed-el-moussaoui-173396348/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
+  </a>
+</div>
+
+<br/>
+
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PURPLE-ORCA&theme=tokyonight&hide_border=false" alt="streak" />
+</div>
