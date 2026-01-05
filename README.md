@@ -6,7 +6,7 @@
 
 <br/>
 
-<h3 align="center">🛠️ The Toolkit</h3>
+<h3 align="center">🛠️ Languages & Tools I have placed my Hands On</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
