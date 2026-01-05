@@ -8,29 +8,21 @@
 
 <h3 align="center">🛠️ The Toolkit</h3>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,html,css,python," alt="Frontend" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,express,mysql,postgres,redis,supabase" alt="Backend & DB" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,linux,bun,vite,prisma,figma" alt="DevOps & Tools" />
+  </a>
+</p>
 
 <br/>
 
 <h3 align="center">🚀 Featured Work</h3>
 <p align="center">
-  <a href="https://orcaportfolio.vercel.app"><b>🌐 Portfolio</b></a> • 
+  <a href="https://orcaportfolio.vercel.app"><b>🌐 PORTFOLIO</b></a> • 
   <a href="https://dhadhackers.com/"><b>🌐 DHADHackers</b></a> • 
   <a href="https://orcascout.vercel.app"><b>🌐 ORCASCOUT</b></a> • 
   <a href="https://orcasion.vercel.app/"><b>🌐 ORCASION</b></a>
