@@ -14,7 +14,7 @@
     <br />
     <img src="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,express,mysql,postgres,redis,supabase" alt="Backend & DB" />
     <br />
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,linux,bun,vite,prisma,figma" alt="DevOps & Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,linux,bun,vite,prisma,figma,obsidian" alt="DevOps & Tools" />
   </a>
 </p>
 
