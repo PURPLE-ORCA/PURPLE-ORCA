@@ -38,10 +38,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
   </a>
 </div>
-
-<br/>
-
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PURPLE-ORCA&theme=tokyonight&hide_border=false" alt="streak" />
-</div>
