@@ -28,13 +28,4 @@
   <a href="https://orcasion.vercel.app/"><b>🌐 ORCASION</b></a>
 </p>
 
-<br/>
 
-<div align="center">
-  <a href="mailto:medms2005@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammed-el-moussaoui-173396348/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
-  </a>
-</div>
