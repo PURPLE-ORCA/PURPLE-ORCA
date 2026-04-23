@@ -1,24 +1,6 @@
 <h1>Hi 👋! I'm Mohammed</h2>
-<h3 align="">A.K.A PURPLE ORCA 🟣</h3>
-
-<h4>Full Stack Engineer | Next.js 16 & Laravel 12</h4>
+<h3 align="">A.K.A PURPLE ORCA 🟣 Full Stack Engineer | Next.js 16 & Laravel 12 & Convex</h3>
 <p>Architecting high-performance platforms and complex web/mobile applications.</p>
-
-<br/>
-
-<h3>🛠️ Languages & Tools I have placed my Hands On</h3>
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,php,html,css,python," alt="Frontend" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,tailwind,mysql,postgres,supabase" alt="Backend & DB" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,bun,vite,figma,obsidian" alt="DevOps & Tools" />
-  </a>
-</p>
-
-<br/>
 
 <h3>Open Source Projects</h3>
 <ul>
@@ -55,3 +37,14 @@
 <li>🗺️ <b><a href="https://www.asfarsahraoui.com/fr">Asfar Sahraoui</a></b> - A travel agency website with reservation & online payment system and, custom BackOffice and a mobile app</li>
 
 </ul>
+
+<h3>🛠️ Languages & Tools I have placed my Hands On</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,php,html,css,python," alt="Frontend" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,tailwind,mysql,postgres,supabase" alt="Backend & DB" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,bun,vite,figma,obsidian" alt="DevOps & Tools" />
+  </a>
+</p>
