@@ -1,5 +1,5 @@
 <h1>Hi 👋! I'm Mohammed</h2>
-<h3 align="">A.K.A PURPLE ORCA 🟣 Full Stack Engineer | Next.js 16 & Laravel 12 & Convex</h3>
+<h3 align="">A.K.A PURPLE ORCA 🟣 Solutions Architect & Lead Developer| Next.js 16 & Laravel 12 & Convex</h3>
 <p>Architecting high-performance platforms and complex web/mobile applications.</p>
 
 <h3>Open Source Projects</h3>
